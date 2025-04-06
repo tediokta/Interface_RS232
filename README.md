@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/8c9f9e3d-685d-42b7-8b0c-67ec266e37d3)# RS232_Interface
-Praktik Teknik Antarmuka - RS232 Interface
+#Praktik Teknik Antarmuka - RS232 Interface
 
 ##Install Software "Virtual Serial Port Driver (VSPD)" 
 1. Download file installer Software VSPD pada link:
